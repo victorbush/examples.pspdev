@@ -1,0 +1,1 @@
+Extract the PPSSPP emulator into this folder.
