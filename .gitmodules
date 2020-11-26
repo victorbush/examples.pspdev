@@ -1,0 +1,6 @@
+[submodule "pspdev-docker"]
+	path = pspdev-docker
+	url = https://github.com/pspdev/pspdev-docker.git
+[submodule "pspsdk"]
+	path = pspsdk
+	url = https://github.com/pspdev/pspsdk.git

@@ -1,0 +1,8 @@
+*.elf
+*.o
+*.SFO
+*.PBP
+visual-studio/.vs/
+*.vcxproj.user
+.vscode/ipch/
+build/
