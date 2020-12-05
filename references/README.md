@@ -5,5 +5,5 @@ Useful links:
 * [PSP Docker](https://github.com/pspdev/pspdev-docker)
 * [PSP Wikibook](https://en.wikibooks.org/wiki/PSP)
 * [PSP Programming Wikibook](https://en.wikibooks.org/wiki/PSP_Programming)
-* [Another PSP Wiki](https://playstationdev.wiki/pspdevwiki)
+* [PSP Dev Wiki](https://playstationdev.wiki/pspdevwiki)
 * [PSP Wikipedia](https://en.wikipedia.org/wiki/PlayStation_Portable)
